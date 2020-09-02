@@ -1,8 +1,8 @@
 # Nutrio (Nutrition Tracker)
 
-Nutrio is your personal assistant for weight management and meal planning.  It keeps your goals in sight and easy to maintain.
-
 Nutrio is a Calorie tracker inspired by apps like MyFitnessPal. It allows you to take a picture of your food to quickly be able to track what you eat. It can also recommend you meals based on how many calories you have left to consume for the day. We also have a progress page where you can see how you're doing over the course of a week, month, and year to date. 
+
+**Demo**: https://youtu.be/xIP4N4aJ0ik
 
 ### Prerequisites
 
